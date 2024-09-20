@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6944d3753ceb8164f93dcfeca382975d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - energyBallPrefab: {fileID: 8678629684049282431, guid: 1392718eb6d463041bb63d32ed65e249, type: 3}
+  - firePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

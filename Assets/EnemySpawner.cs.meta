@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6181e2b8e1b912d46b77a11788f34b71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alienPrefab: {fileID: 4248617121129082066, guid: 3300e5d1f0a1bcf4b9722a634b97eb12, type: 3}
+  - ufoPrefab: {fileID: 1472305989846031037, guid: 6a9f5ed81e5402d428511b09028615fa, type: 3}
+  - bossPrefab: {fileID: 3292626873227806280, guid: 2ce4d84f0ac4e074bbf9b0d06872c8d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
